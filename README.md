@@ -8,4 +8,4 @@ To execute this project just type:
 
 cd nodeServer 
 
-npm start
+nodemon .\index.js  
